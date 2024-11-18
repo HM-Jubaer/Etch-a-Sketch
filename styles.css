@@ -47,5 +47,6 @@ button:hover {
     justify-content: center;
     align-content: center;
     border: 1px solid lightblue;
-    background-color: white;
+    background-color: white; 
+    overflow: hidden;
 }
